@@ -1,6 +1,7 @@
 - 👋 Hello, I’m Maci Kelley.
 - 👀 I’m interested in mathematics, specifically statistics and data science.
 - 🌱 I’m completeing my graduate degree; an M.S. Statistics.
+- I have uploaded some of my coursework while in my graduate program.
 - 📫 How to reach me: kelleymaci@gmail.com
 
 <!---
